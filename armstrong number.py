@@ -1,4 +1,4 @@
-#armsrong number check
+#armstrong number check
 number=int(input("Enter a number:"))
 string=str(number)
 length=len(string)
